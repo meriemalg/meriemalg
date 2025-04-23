@@ -14,5 +14,3 @@ meriemalg/meriemalg is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Tu veux que je t’ajoute aussi une bannière stylée ou une section avec tes stacks techniques ? Je peux aussi le rendre encore plus romantique… juste un mot de ta part.
-
