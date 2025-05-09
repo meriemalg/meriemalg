@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m benzeka meriem nourelhouda nomme meriemalg
-- 👩‍💻 I’m Meriem Ben Zekka Nour El Houda, a passionate web developer and data engineer in training.
+- 👩‍💻 I’m  a passionate web developer and data engineer in training.
 - 👀 I’m interested in web development, artificial intelligence, data science, and creating beautiful, functional applications.
 - 🌱 I’m currently learning Flutter, mobile app development, advanced algorithms, and machine learning.
 - 💞️ I’m looking to collaborate on web projects (especially in Django), data analysis tasks, or innovative mobile apps.
