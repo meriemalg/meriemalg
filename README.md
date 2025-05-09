@@ -1,4 +1,4 @@
-👋 Hi, I'm Meriem Benzeka (a.k.a meriemalg)
+👋 Hi, I'm Meriem Benzeka (meriemalg)
 
 Web Developer | Data Engineer | AI & Data Science Enthusiast
 💻 About Me
